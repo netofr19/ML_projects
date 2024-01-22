@@ -5,12 +5,18 @@ Although released over a decade ago, NASA's turbofan engine degradation simulati
 This project will be a series of eight parts, consisting of the following steps:
 
 1 - Exploratory data analysis and baseline model;
+
 2 - Updated assumption of RUL & Support Vector Regression;
+
 3 -  Time series analysis: distributed lag models;
+
 4 -  Survival analysis for predictive maintenance;
 5 - Random forest;
+
 6 - Reproducible results primer for NNs;
+
 7 - Lagged MLP & condition based normalization;
+
 8 - LSTM & wrap-up;
 
 [1] Papers published on NASA's CMAPSS data in 2020 so far: Google scholar search, accessed on 2023–11–20.
